@@ -52,7 +52,7 @@ Here are some of the key technologies I work with:
 
 ### 📬 Connect with Me
 
-- 🌐 **Portfolio:** **[your-portfolio-link.com](https://your-portfolio-link.com)**
+
 - 💼 **LinkedIn:** **[linkedin.com/in/eagowri](https://linkedin.com/in/eagowri)**
 - 📧 **Email:** **[eagowri@gmail.com](mailto:eagowri@gmail.com)**
 

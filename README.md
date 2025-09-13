@@ -1,59 +1,62 @@
-# Hi there, I'm E A Gowri 👋
+# Hi there, I'm Gowri 👋  
 
-## ☁️ AWS & DevOps Engineer | 🐍 Python Scripter | 🤖 AI/ML Enthusiast
-
-I'm a proactive and results-driven engineer specializing in designing, deploying, and managing scalable and secure cloud infrastructures on AWS. I'm passionate about automation, CI/CD, and building robust solutions that streamline operations and drive innovation.
-
----
-
-### 🛠️ My Tech Stack
-
-Here are some of the key technologies I work with:
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-</p>
+🚀 **Aspiring AWS & DevOps Engineer** with a strong interest in **cloud platforms, automation, and CI/CD pipelines**.  
+I enjoy building scalable cloud solutions, automating workflows, and exploring new technologies in DevOps and cloud computing.  
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gowri-ea&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="E A Gowri's GitHub Stats"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowri-ea&layout=compact&theme=github_dark&hide_border=true" alt="E A Gowri's Top Languages"/>
-  </a>
-</p>
+## 🧑‍💻 About Me
+- 💡 Hands-on experience with **AWS, Docker, Kubernetes, and Terraform**  
+- 🔄 Skilled in **CI/CD pipelines, Infrastructure as Code, and cloud security practices**  
+- 🐍 Proficient in **Python, Bash**, and familiar with **Java**  
+- 🌱 Currently learning advanced **DevOps practices** and **AI in Cloud**  
+- 🎯 Passionate about **cloud automation, scalability, and secure deployments**  
 
 ---
 
-### 📬 Connect with Me
-
-
-- 💼 **LinkedIn:** **[linkedin.com/in/eagowri](https://linkedin.com/in/eagowri)**
-- 📧 **Email:** **[eagowri@gmail.com](mailto:eagowri@gmail.com)**
+## 🛠️ Skills & Tools
+- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, EBS, CloudWatch, Route53)  
+- **DevOps Tools:** Git, GitHub Actions, Jenkins, Docker, Kubernetes (beginner), Terraform (beginner)  
+- **CI/CD & Automation:** Pipelines, IaC, Monitoring & Logging  
+- **Programming & Scripting:** Python, Bash, Java (beginner)  
+- **Databases:** SQL  
 
 ---
+
+## 📂 Projects
+- **Seamless Integration of Amazon EC2 and S3** – Automated backup scripts with IAM roles & security groups  
+- **Building Secure & Scalable Networks with Amazon VPC** – Designed VPC with NAT & Internet Gateways, subnet isolation, and security policies  
+- **Smart Automatic Water Dispenser (Patent Published)** – AI-powered, touchless water dispenser with voice commands  
+
+---
+
+## 🏆 Achievements
+- 🥇 **1st Place** – Voice-activated water dispenser (AIT Project Exhibition)  
+- 🥉 **3rd Place** – National Level Ideathon (LTSU, Punjab)  
+- 🥉 **3rd Place** – Cryptic 3.0 Hackathon (Bird Voice AI/ML Project)  
+
+---
+
+## 🎓 Education
+- **B.E. in Electronics & Communication Engineering** – Atria Institute of Technology (CGPA: 8.4)  
+- **PUC (PCMB)** – Seshadripuram Composite PU College (90%)  
+- **10th Grade** – St Mira’s High School (84%)  
+
+---
+
+## 📜 Certifications & Learnings
+- AWS Educate – *Introduction to Generative AI*  
+- Python for Data Science & Neural Networks – *Simplilearn*  
+- AI/ML for Geodata Analysis – *ISRO*  
+- AWS Cloud Practitioner Essentials *(In Progress)*  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: **eagowri@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/ea-gowri](https://www.linkedin.com/in/ea-gowri/)  
+- 💻 GitHub: [github.com/your-github-username](https://github.com/)  
+
+---
+
+⭐️ *“Passionate about leveraging cloud & DevOps to solve real-world challenges and build scalable, secure systems.”*  

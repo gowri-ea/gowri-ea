@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+E+A+Gowri+👋;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Terraform+%7C+Jenkins;Automating+and+Securing+Cloud+Infrastructure+🚀" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 💻 About Me  

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gowri 👋</h1>
+<h1 align="center">Hi there, I'm Gowri :wave:</h1>
 <h3 align="center">Cloud & DevOps Engineer specializing in CI/CD, IaC, and AWS</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## :computer: About Me
 
-💡 I am a passionate **Cloud & DevOps Engineer** specializing in automating complex workflows and deploying highly scalable, cloud-native infrastructures.
-🚀 My expertise lies in leveraging **AWS, Docker, Jenkins, and Terraform** to build, secure, and manage robust systems.
-🔐 I have a strong focus on implementing end-to-end **CI/CD pipelines, Infrastructure as Code (IaC), and comprehensive monitoring solutions**.
-📈 I am continuously expanding my skills into **MLOps** and the application of **AI in Cloud environments**.
+:bulb: I am a passionate **Cloud & DevOps Engineer** specializing in automating complex workflows and deploying highly scalable, cloud-native infrastructures.
+:rocket: My expertise lies in leveraging **AWS, Docker, Jenkins, and Terraform** to build, secure, and manage robust systems.
+:lock: I have a strong focus on implementing end-to-end **CI/CD pipelines, Infrastructure as Code (IaC), and comprehensive monitoring solutions**.
+:chart_with_upwards_trend: I am continuously expanding my skills into **MLOps** and the application of **AI in Cloud environments**.
 
 ---
 
-## 🛠️ Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Key Competencies
+## :rocket: Key Competencies
 
 * **Cloud Infrastructure:** Designing and managing secure, scalable infrastructure on **AWS (VPC, EC2, S3, RDS, IAM)**.
 * **Infrastructure as Code (IaC):** Automating environment provisioning and management using **Terraform**.
@@ -42,51 +42,51 @@
 
 ---
 
-## 📂 Featured Projects
+## :open_file_folder: Featured Projects
 
-### 🏗️ **Secure AWS Infrastructure with Terraform**
+### :building_construction: **Secure AWS Infrastructure with Terraform**
 🔹 Architected and deployed a secure, multi-tier AWS environment from the ground up using **Terraform**.
 🔹 Implemented a custom **VPC** with public/private subnets, security groups, and an **ALB** for high availability.
 🔹 Enforced strict security using **least-privilege IAM policies** and established comprehensive **CloudWatch monitoring and alarms**.
-🧰 *Tech:* AWS (VPC, EC2, ALB, RDS) | Terraform | IAM | CloudWatch
-🔗 **[GitHub Repo]** ---
+:toolbox: *Tech:* AWS (VPC, EC2, ALB, RDS) | Terraform | IAM | CloudWatch
+:link: **[GitHub Repo]** ---
 
-### 🐳 **Automated CI/CD Pipeline for Java Application**
+### :whale: **Automated CI/CD Pipeline for Java Application**
 🔹 Developed a complete CI/CD pipeline to automatically build, test, and deploy a containerized **Spring Boot** application.
 🔹 Utilized **Docker** to containerize the application and a **Jenkins** pipeline (Jenkinsfile) to manage the workflow, pushing the image to Docker Hub and deploying it to an **AWS EC2** instance.
-🧰 *Tech:* Jenkins | Docker | Java/Spring Boot | AWS EC2 | Maven
-🔗 **[GitHub Repo]** ---
+:toolbox: *Tech:* Jenkins | Docker | Java/Spring Boot | AWS EC2 | Maven
+:link: **[GitHub Repo]** ---
 
-### 📊 **Real-time Monitoring with Prometheus & Grafana**
+### :bar_chart: **Real-time Monitoring with Prometheus & Grafana**
 🔹 Deployed a robust monitoring stack using **Prometheus** to scrape custom metrics from EC2 instances.
 🔹 Created dynamic **Grafana dashboards** to visualize real-time system performance, resource utilization, and application health, enabling proactive issue detection.
-🧰 *Tech:* Prometheus | Grafana | Docker | AWS EC2
-🔗 **[GitHub Repo]** ---
+:toolbox: *Tech:* Prometheus | Grafana | Docker | AWS EC2
+:link: **[GitHub Repo]** ---
 
-### 💧 **Smart Touchless Water Dispenser (Patent)**
+### :droplet: **Smart Touchless Water Dispenser (Patent)**
 🔹 Co-developed an AI-powered touchless dispenser utilizing **voice commands & sensors** for hygienic operation.
 🔹 **Patent Published** – *Application No.: 202441077657 A*
-🧰 *Tech:* Python | AI/ML | IoT | Sensors
-🔗 **[Patent Link]** ---
+:toolbox: *Tech:* Python | AI/ML | IoT | Sensors
+:link: **[Patent Link]** ---
 
-## 🏆 Achievements
+## :trophy: Achievements
 
-🏅 **1st Place** – Voice-activated Water Dispenser (AIT Project Exhibition)
-🥉 **3rd Place** – National Level Ideathon (LTSU, Punjab)
-🥉 **3rd Place** – Cryptic 3.0 Hackathon (Bird Voice AI/ML Project)
-
----
-
-## 🎓 Certifications
-
-📜 AWS Educate – *Introduction to Generative AI*
-📜 AI/ML for Geodata Analysis – *ISRO*
-📜 Python for Data Science & Neural Networks – *Simplilearn*
-⏳ *AWS Cloud Practitioner Essentials (In Progress)*
+:first_place_medal: **1st Place** – Voice-activated Water Dispenser (AIT Project Exhibition)
+:third_place_medal: **3rd Place** – National Level Ideathon (LTSU, Punjab)
+:third_place_medal: **3rd Place** – Cryptic 3.0 Hackathon (Bird Voice AI/ML Project)
 
 ---
 
-## 📈 GitHub Stats
+## :mortar_board: Certifications
+
+:scroll: AWS Educate – *Introduction to Generative AI*
+:scroll: AI/ML for Geodata Analysis – *ISRO*
+:scroll: Python for Data Science & Neural Networks – *Simplilearn*
+:hourglass_flowing_sand: *AWS Cloud Practitioner Essentials (In Progress)*
+
+---
+
+## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gowri-ea&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -95,7 +95,7 @@
 
 ---
 
-## ⚡ Activity Graph
+## :zap: Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowri-ea&theme=tokyo-night&hide_border=true"/>
@@ -103,7 +103,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## :handshake: Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ea-gowri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -114,7 +114,7 @@
 
 ---
 
-## 💬 Quote
+## :speech_balloon: Quote
 
 <p align="center">
   <em>“Passionate about leveraging Cloud & DevOps to build scalable, secure, and automated systems.”</em>
